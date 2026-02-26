@@ -39,8 +39,7 @@
 
 **Git** • **GitHub** • **Netlify**
 * Website Deployment • Version Control • Project Management
-
-From development to live production.
+* From development to live production.
 
 ---
 ### 🤖 Emerging Interests
