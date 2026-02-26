@@ -1,7 +1,7 @@
 ## Hi there 👋
-I’m Bhoomi Kaushik, a Full Stack-focused Developer building modern and responsive web experiences.
-I turn ideas into clean, interactive, and user-friendly websites.
-If I imagine it — I try to design it, code it, and ship it. 🚀
+* I’m Bhoomi Kaushik, a Full Stack-focused Developer building modern and responsive web experiences.
+* I turn ideas into clean, interactive, and user-friendly websites.
+* If I imagine it — I try to design it, code it, and ship it. 🚀
 
 **🎯 Goal**
 * To become a powerful full stack developer and build digital experiences that feel smooth, fast, and meaningful.
@@ -38,7 +38,7 @@ If I imagine it — I try to design it, code it, and ship it. 🚀
 ### 🚀 Deployment & Version Control:
 
 **Git** • **GitHub** • **Netlify**
-Website Deployment • Version Control • Project Management
+* Website Deployment • Version Control • Project Management
 
 From development to live production.
 
@@ -51,18 +51,18 @@ From development to live production.
 ---
 ### 🌟 Core Development Areas
 
-Personal Portfolio Development
-E-Commerce Website Development
-Landing Page Development
-Full Web Development Lifecycle
+* Personal Portfolio Development
+* E-Commerce Website Development
+* Landing Page Development
+* Full Web Development Lifecycle
 
 ---
 ### 🧠 Professional Skills
 
-Emotional Intelligence
-Time Management
-Problem Solving
-Continuous Learning
+* Emotional Intelligence
+* Time Management
+* Problem Solving
+* Continuous Learning
 
 ---
 ## 🤝 Let’s Collaborate
