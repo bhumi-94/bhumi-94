@@ -5,14 +5,66 @@ If I imagine it — I try to design it, code it, and ship it. 🚀
 
 **🎯 Goal**
 * To become a powerful full stack developer and build digital experiences that feel smooth, fast, and meaningful.
+  
+**🚀 Currently Working On:**
+* Advanced Animated Portfolio.
+* Real-world Full Stack Projects.
+* Improving backend architecture skills.
+* Writing cleaner, more scalable code.
+  
+---
+## 🛠️ **Tech Stack**
 
-## 💡 What Makes Me Different
+### 💻 Frontend Development:
 
-✔ I focus on both design & development
-✔ I write clean, structured, and readable code
-✔ I care about user experience, not just functionality
-✔ I believe small details create big impact
+**HTML5** • **CSS3** • **JavaScript** • **Tailwind CSS**
+* Responsive Design • Modern UI Development • Front-End Architecture
+* Building interactive, responsive, and visually appealing web interfaces.
 
+---
+### ⚙️ Backend & Programming:
+
+**Core Python**
+* Fundamentals of backend logic and structured programming.
+
+---
+### 🎨 Design & UI Tools:
+
+**Figma**
+* UI/UX Design 
+* Design-first approach before development.
+
+---
+### 🚀 Deployment & Version Control:
+
+**Git** • **GitHub** • **Netlify**
+Website Deployment • Version Control • Project Management
+
+From development to live production.
+
+---
+### 🤖 Emerging Interests
+
+* Artificial Intelligence (AI)
+* Exploring intelligent systems and smart web integrations.
+
+---
+### 🌟 Core Development Areas
+
+Personal Portfolio Development
+E-Commerce Website Development
+Landing Page Development
+Full Web Development Lifecycle
+
+---
+### 🧠 Professional Skills
+
+Emotional Intelligence
+Time Management
+Problem Solving
+Continuous Learning
+
+---
 ## 🤝 Let’s Collaborate
 
 I’m open to:
