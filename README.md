@@ -48,17 +48,6 @@ Hi! I'm **Bhoomi Kaushik** — a passionate **MERN Stack Developer** who loves b
 
 ---
 
-## 🚀 What I Build
-
-| Domain | Description |
-|---|---|
-| 🗂️ **Full Stack Web Apps** | End-to-end MERN applications with REST APIs |
-| 🛍️ **E-Commerce Platforms** | Dynamic shopping experiences with auth & payments |
-| 🎨 **Animated Portfolios** | Visually stunning personal portfolio sites |
-| 🏗️ **Landing Pages** | Conversion-focused, pixel-perfect pages |
-| ⚙️ **REST APIs** | Scalable backend services with Express & MongoDB |
-
----
 
 ## 📊 GitHub Stats
 
