@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhoomi%20Kaushik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20UI%%20%7C%20Builder&descAlignY=52&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhoomi%20Kaushik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20%7C%20Builder&descAlignY=52&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Turning+Ideas+Into+Reality+%E2%9C%A8;Design+First%2C+Then+Code+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
