@@ -1,167 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Hi%20There,%20I'm%20Bhoomi%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1DC,50:E0BBE4,100:C7CEEA&height=220&section=header&text=Hi%20There,%20I'm%20Bhoomi%20%F0%9F%8E%80&fontSize=38&fontColor=6B4F63&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%C2%B7%20UI/UX%20Dreamer%20%C2%B7%20Builder&descAlignY=55&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Design+First%2C+Then+Code+%F0%9F%8E%A8;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=B983A5&center=true&vCenter=true&width=650&lines=full+stack+mern+developer+%F0%9F%8D%A1;mongodb+%C2%B7+express+%C2%B7+react+%C2%B7+node.js;design+first%2C+then+code+%F0%9F%8E%80;soft+pastels+%2B+clean+code+%3C33" alt="Typing SVG" />
 </a>
 
-<br/>
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
 <a href="https://www.linkedin.com/in/bhoomi-kaushik-145081356">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-connect-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6B4F63&labelColor=FFF0F5" />
 </a>
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-say%20hi-E0BBE4?style=for-the-badge&logo=gmail&logoColor=6B4F63&labelColor=FFF0F5" />
 </a>
 <a href="https://github.com/bhumi-94">
-  <img src="https://komarev.com/ghpvc/?username=bhumi-94&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=bhumi-94&style=for-the-badge&color=c7ceea&label=VISITORS" />
 </a>
 
 </div>
 
 <br/>
 
-## 👩‍💻 About Me
+## ☁️ about me
 
-Hi! I'm **Bhoomi Kaushik**, based in **Meerut, India** — a passionate **MERN Stack Developer** who loves turning ideas into fast, polished, real-world web products.
+hii, i'm **Bhoomi** 🍡 based in **Meerut, India** — a **MERN stack dev** who believes good software should feel as soft and intentional as a well-curated moodboard 🎀
 
-> *"If I imagine it — I design it, code it, and ship it."* 🚀
+> *𐙚 "if i imagine it — i design it, code it, and ship it" 𐙚*
 
-```yaml
-name: Bhoomi Kaushik
-role: MERN Stack Developer
-location: Meerut, India
-currently_building: HireTrack AI — an AI-powered career assistant
-learning: Backend architecture & AI integrations in web apps
-design_tool: Figma (my second home)
-theme_preference: dark, always 🌑
-fun_fact: I design before I code — every single time
-```
+- 🧋 currently building **[HireTrack AI](https://github.com/bhumi-94/HireTrack-AI-)** — an AI career bestie that reviews resumes against job descriptions
+- 🌷 growing my skills in **backend architecture** + **MERN**
+- 🎨 always **design before code** — figma is my happy place
+- 🐇 exploring **AI** sprinkled into everyday web apps
+- 🌙 dark theme > light theme, no notes
+- 📌 say hi — always down to collab or chat
 
-- 🔭 Currently building **[HireTrack AI](https://github.com/bhumi-94/HireTrack-AI-)** — an AI career assistant that evaluates resumes against job descriptions
-- 🌱 Deepening my expertise in the **MERN stack** and **backend architecture**
-- 🎯 Goal: build digital experiences that feel **smooth, fast, and meaningful**
-- 🤖 Exploring **AI integrations** in everyday web apps
-- 📫 Reach me on **LinkedIn** or **email** — always open to a conversation
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
-<br/>
-
-## 🛠️ Tech Stack
+## 🎀 tech stack
 
 <div align="center">
 
-**Frontend**
+**frontend**
+<br/>
+<img src="https://img.shields.io/badge/react-FFD1DC?style=for-the-badge&logo=react&logoColor=6B4F63&labelColor=FFF0F5" />
+<img src="https://img.shields.io/badge/javascript-FFF5BA?style=for-the-badge&logo=javascript&logoColor=6B4F63&labelColor=FFFDF0" />
+<img src="https://img.shields.io/badge/html5-FFDAC1?style=for-the-badge&logo=html5&logoColor=6B4F63&labelColor=FFF3EB" />
+<img src="https://img.shields.io/badge/css3-C7CEEA?style=for-the-badge&logo=css3&logoColor=6B4F63&labelColor=F1F3FB" />
+<img src="https://img.shields.io/badge/tailwind_css-B5EAD7?style=for-the-badge&logo=tailwind-css&logoColor=6B4F63&labelColor=EFFBF6" />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+**backend & database**
+<br/>
+<img src="https://img.shields.io/badge/node.js-E2F0CB?style=for-the-badge&logo=node.js&logoColor=6B4F63&labelColor=F6FAEF" />
+<img src="https://img.shields.io/badge/express.js-D4A5A5?style=for-the-badge&logo=express&logoColor=6B4F63&labelColor=F8EFEF" />
+<img src="https://img.shields.io/badge/python-C9C9FF?style=for-the-badge&logo=python&logoColor=6B4F63&labelColor=F2F2FF" />
+<img src="https://img.shields.io/badge/mongodb-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=6B4F63&labelColor=EFFBF6" />
 
-**Backend & Database**
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**Design & Tools**
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+**design & tools**
+<br/>
+<img src="https://img.shields.io/badge/figma-FFD1DC?style=for-the-badge&logo=figma&logoColor=6B4F63&labelColor=FFF0F5" />
+<img src="https://img.shields.io/badge/git-E0BBE4?style=for-the-badge&logo=git&logoColor=6B4F63&labelColor=F7EFF9" />
+<img src="https://img.shields.io/badge/github-C7CEEA?style=for-the-badge&logo=github&logoColor=6B4F63&labelColor=F1F3FB" />
+<img src="https://img.shields.io/badge/netlify-FFDAC1?style=for-the-badge&logo=netlify&logoColor=6B4F63&labelColor=FFF3EB" />
+<img src="https://img.shields.io/badge/vs_code-D4A5A5?style=for-the-badge&logo=visual-studio-code&logoColor=6B4F63&labelColor=F8EFEF" />
 
 </div>
 
-<br/>
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
-## 🚀 Featured Projects
+## 🧸 featured projects
 
 <div align="center">
 
 <a href="https://github.com/bhumi-94/HireTrack-AI-">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=HireTrack-AI-&theme=tokyonight&hide_border=true" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=HireTrack-AI-&theme=cottoncandy&hide_border=true" />
 </a>
 <a href="https://github.com/bhumi-94/Snap-Post">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=Snap-Post&theme=tokyonight&hide_border=true" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=Snap-Post&theme=cottoncandy&hide_border=true" />
 </a>
 
 <a href="https://github.com/bhumi-94/MediCare_Health_Service">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=MediCare_Health_Service&theme=tokyonight&hide_border=true" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=MediCare_Health_Service&theme=cottoncandy&hide_border=true" />
 </a>
 <a href="https://github.com/bhumi-94/Portfolio-website">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=Portfolio-website&theme=tokyonight&hide_border=true" />
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumi-94&repo=Portfolio-website&theme=cottoncandy&hide_border=true" />
 </a>
 
 </div>
 
-| Project | Description |
+| 🌷 project | description |
 |---|---|
-| 🤖 **[HireTrack AI](https://github.com/bhumi-94/HireTrack-AI-)** | Full-stack AI career assistant — matches resumes against job descriptions and gives personalized feedback |
-| 📸 **[Snap-Post](https://github.com/bhumi-94/Snap-Post)** | Full-stack MERN social media app for uploading images and sharing posts |
-| 🏥 **[MediCare Health Service](https://github.com/bhumi-94/MediCare_Health_Service)** | Healthcare platform for booking appointments and managing medical records |
-| 🌐 **[Portfolio Website](https://github.com/bhumi-94/Portfolio-website)** | Personal portfolio built with React, Tailwind CSS & React Router |
-| 🔐 **[Login Form Project](https://github.com/bhumi-94/Login-Form-Project)** | Clean, responsive login form built with HTML, CSS & JavaScript |
+| 🤖 **[HireTrack AI](https://github.com/bhumi-94/HireTrack-AI-)** | full-stack AI career assistant — matches resumes to job descriptions with personalized feedback |
+| 📸 **[Snap-Post](https://github.com/bhumi-94/Snap-Post)** | full-stack MERN social app for uploading images & sharing posts |
+| 🏥 **[MediCare Health Service](https://github.com/bhumi-94/MediCare_Health_Service)** | healthcare platform for booking appointments & managing records |
+| 🌐 **[Portfolio Website](https://github.com/bhumi-94/Portfolio-website)** | personal portfolio built with React, Tailwind & React Router |
+| 🔐 **[Login Form Project](https://github.com/bhumi-94/Login-Form-Project)** | clean, responsive login form in HTML, CSS & JS |
 
-<br/>
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
-## 📊 GitHub Stats
+## 🍡 github stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhumi-94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumi-94&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhumi-94&show_icons=true&theme=cottoncandy&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumi-94&layout=compact&langs_count=8&theme=cottoncandy&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi-94&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumi-94&hide_border=true&background=FFF0F5&ring=E0BBE4&fire=D291BC&currStreakLabel=6B4F63&sideLabels=6B4F63&currStreakNum=6B4F63&sideNums=6B4F63&dates=B983A5" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumi-94&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumi-94&theme=react-dark&bg_color=FFF0F5&color=6B4F63&line=D291BC&point=B983A5&hide_border=true" width="95%"/>
 
 </div>
 
-<br/>
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
-## 🧠 Professional Skills
+## 🌸 soft skills
 
 <div align="center">
 
-| 🧩 Problem Solving | 💬 Emotional Intelligence | ⏱️ Time Management |
+| 🧩 problem solving | 💬 emotional intelligence | ⏱️ time management |
 |:---:|:---:|:---:|
-| 📚 Continuous Learning | 🎨 UI/UX Thinking | 🧹 Clean Code Practices |
-| 📱 Responsive Design | 🔁 Full Web Dev Lifecycle | 🤝 Collaboration |
+| 📚 continuous learning | 🎨 UI/UX thinking | 🧹 clean code practices |
+| 📱 responsive design | 🔁 full web dev lifecycle | 🤝 collaboration |
 
 </div>
 
-<br/>
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
-## 🤝 Open To Opportunities
+## 🍭 open to opportunities
 
-I'm actively looking for:
+- 💼 **freelance projects** — let's build something cute & functional together
+- 🎓 **internships** — ready to learn & contribute
+- 🌐 **remote collabs** — open to working with global teams
+- 🛠️ **real-world product building** — from idea to deployment
 
-- 💼 **Freelance Projects** — let's build something great together
-- 🎓 **Internship Opportunities** — ready to learn & contribute
-- 🌐 **Remote Collaborations** — open to working with global teams
-- 🛠️ **Real-World Product Building** — from idea to deployment
+┈┈┈┈┈┈˚➶ ⋆｡°📌⋆°｡⋆➶˚┈┈┈┈┈┈
 
-<br/>
-
-## 📬 Let's Connect
+## 💌 let's connect
 
 <div align="center">
 
 <a href="https://github.com/bhumi-94">
-<img src="https://img.shields.io/badge/GitHub-bhumi--94-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/github-bhumi--94-C7CEEA?style=for-the-badge&logo=github&logoColor=6B4F63&labelColor=F1F3FB" />
 </a>
 <a href="https://www.linkedin.com/in/bhoomi-kaushik-145081356">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/linkedin-connect-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6B4F63&labelColor=FFF0F5" />
 </a>
 <a href="https://github.com/bhumi-94/Portfolio-website">
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/portfolio-visit-FFDAC1?style=for-the-badge&logo=google-chrome&logoColor=6B4F63&labelColor=FFF3EB" />
 </a>
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/email-say%20hi-E2F0CB?style=for-the-badge&logo=gmail&logoColor=6B4F63&labelColor=F6FAEF" />
 </a>
 
 </div>
@@ -170,17 +158,17 @@ I'm actively looking for:
 
 <div align="center">
 
-⚡ **Fun Facts**
+🎀 **fun facts**
 
 ```
-🎨  I design before I code — always.
-🌑  Dark theme > light theme. No debate.
-📚  Always learning something new, every single day.
-💪  Consistency over motivation. That's the rule.
+🎨  i design before i code — always.
+🌙  dark theme > light theme. no debate.
+📚  always learning something new, every day.
+🧋  consistency over motivation. that's the rule.
 ```
 
-*✨ Every powerful product starts as a small idea. I help turn that idea into reality.*
+*𐙚 every powerful product starts as a small idea — i help turn it into reality 𐙚*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C7CEEA,50:E0BBE4,100:FFD1DC&height=130&section=footer&animation=fadeIn"/>
 
 </div>
