@@ -14,7 +14,7 @@
 
 ---
 
-## `$ whoami`
+## `$ Bhoomi Kaushik`
 
 ```yaml
 name: Bhoomi Kaushik
