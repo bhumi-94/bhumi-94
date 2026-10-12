@@ -1,114 +1,143 @@
-::: {align="center"}
-# Hi, I'm Bhoomi Kaushik 👋
+ <div align="center">
 
-### Full-Stack Developer \| B.Tech CSE '27
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=BHOOMI%20KAUSHIK&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20CSE%202027&descAlignY=58&descSize=17" width="100%" alt="Bhoomi Kaushik profile banner"/>
 
-I build responsive web applications, REST APIs, and practical full-stack
-projects using React, Node.js, Express, and databases.
+<a href="https://portfolio-website-sooty-rho-30.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/bhoomi-kaushik-145081356"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/bhumi-94"><img src="https://img.shields.io/badge/GITHUB-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-[Portfolio](https://portfolio-website-sooty-rho-30.vercel.app/) •
-[LinkedIn](https://linkedin.com/in/bhoomi-kaushik-145081356) •
-[GitHub](https://github.com/bhumi-94)
+<img src="https://komarev.com/ghpvc/?username=bhumi-94&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views"/>
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=bhumi-94&label=Profile%20Views&color=0e75b6&style=flat)
-:::
+### `Code. Create. Iterate. Ship.`
 
-------------------------------------------------------------------------
+*Building modern web applications with clean interfaces and reliable backend systems.*
 
-## 👩‍💻 About Me
+</div>
 
--   🎓 Computer Science Engineering student, graduating in **2027**.
--   💻 Focused on **full-stack web development** and building useful,
-    maintainable applications.
--   ⚙️ Interested in REST API design, authentication, state management,
-    database integration, and deployment.
--   🤖 Exploring practical ways to integrate AI into web applications.
--   🌱 Currently strengthening my skills in React, Redux Toolkit,
-    Node.js, SQL, and backend development.
--   🤝 Open to suitable **full-stack, React, and software development
-    internship / entry-level opportunities**.
+---
 
-## 🧰 Tech Stack
+## `$ whoami`
 
-**Frontend:** HTML5 · CSS3 · JavaScript · React · Redux Toolkit · React
-Router · Tailwind CSS
+```yaml
+name: Bhoomi Kaushik
+role: Full-Stack Developer
+education: B.Tech Computer Science Engineering
+graduation: 2027
+primary_stack: React, Redux Toolkit, Node.js, Express.js
+databases: MySQL, MongoDB
+currently_learning: Backend engineering, SQL, AI integration
+interests:
+  - Full-stack web development
+  - REST API design
+  - Authentication and authorization
+  - Scalable application architecture
+```
 
-**Backend:** Node.js · Express.js · REST APIs · JWT authentication
+I enjoy building end-to-end applications, connecting frontend experiences with backend services, and solving practical problems through code. My current focus is strengthening my full-stack engineering skills and building projects that demonstrate real-world development workflows.
 
-**Databases:** MySQL · MongoDB
+## `01 / TECH STACK`
 
-**Tools & Platforms:** Git · GitHub · Postman · VS Code · Vercel ·
-Render · Figma (basic)
+<div align="center">
 
-## 🚀 Featured Projects
+### Frontend
 
-### Nexora --- Full-Stack E-Commerce Application
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" alt="HTML, CSS, JavaScript, React, Redux and Tailwind CSS"/>
 
-A full-stack shopping application focused on core e-commerce workflows,
-API integration, authentication, and responsive user experience.
+### Backend & Databases
 
--   **Focus:** product browsing, cart and wishlist flows, user
-    authentication, and frontend/backend integration.
--   **Tech:** React, Redux Toolkit, Node.js, Express.js, MySQL, REST
-    APIs.
--   **AI direction:** exploring AI-assisted product discovery and
-    shopping support; these should be listed as in progress until
-    implemented and deployed.
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Node.js, Express, MySQL and MongoDB"/>
 
-🔗 **Repository:** [Explore my GitHub
-repositories](https://github.com/bhumi-94?tab=repositories)
+### Tools & Platforms
 
-### HR-Portal --- Employee & HR Management
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Git, GitHub, Postman, VS Code and Vercel"/>
 
-An HR portal built around employee workflows, role-based access, and
-HR-related modules.
+</div>
 
--   **Focus:** authentication, role-aware routing, employee records,
-    attendance, leave, holidays, and notifications.
--   **Tech:** React, Redux Toolkit, Tailwind CSS, Node.js, Express.js,
-    MySQL, JWT.
--   **Deployment:** frontend/backend deployment work with a hosted MySQL
-    database.
+## `02 / SELECTED PROJECTS`
 
-🔗 **Frontend:** [HR-Portal](https://github.com/bhumi-94/HR-Portal)\
-🔗 **Backend:**
-[HR-Portal-Backend](https://github.com/bhumi-94/HR-Portal-Backend)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-More projects: [Browse all
-repositories](https://github.com/bhumi-94?tab=repositories)
+### 🛍️ Nexora
 
-## 📊 GitHub Analytics
+**Full-Stack E-Commerce**
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhumi-94&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub stats" />`{=html}
-`<img height="165" src="https://streak-stats.demolab.com?user=bhumi-94&hide_border=true&theme=transparent" alt="GitHub contribution streak" />`{=html}
+A shopping application focused on essential e-commerce workflows, responsive UI, and frontend-to-backend integration.
 
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumi-94&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages in public repositories" />`{=html}
-:::
+**Core areas**
 
-> **Analytics note:** These cards use third-party services and public
-> GitHub data. They may temporarily rate-limit or fail to load. Language
-> statistics reflect code in public repositories, not a complete measure
-> of skill.
+* Product browsing and shopping flows
+* Cart and wishlist state management
+* Authentication and API integration
+* Responsive React interfaces
 
-## 🎯 Current Focus
+**Stack**
 
--   Building and improving full-stack applications.
--   Writing cleaner React components and Redux Toolkit logic.
--   Strengthening API design, authentication, SQL, and database
-    fundamentals.
--   Improving testing, documentation, deployment, and project quality.
+`React` `Redux Toolkit` `Node.js` `Express` `MySQL`
 
-## 📫 Connect With Me
+<a href="https://github.com/bhumi-94?tab=repositories"><img src="https://img.shields.io/badge/VIEW_CODE-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View Nexora code"/></a>
 
--   **Portfolio:** https://portfolio-website-sooty-rho-30.vercel.app/
--   **LinkedIn:** https://linkedin.com/in/bhoomi-kaushik-145081356
--   **GitHub:** https://github.com/bhumi-94
+</td>
+<td width="50%" valign="top">
 
-------------------------------------------------------------------------
+### 🧑‍💼 HR-Portal
 
-::: {align="center"}
-*Thanks for visiting my profile! Feel free to explore my repositories
-and connect with me.*
-:::
+**Employee & HR Management**
+
+An HR management application focused on employee workflows and role-aware access.
+
+**Core areas**
+
+* JWT authentication and role-based routing
+* Employee management
+* Attendance and leave workflows
+* Holiday and notification modules
+
+**Stack**
+
+`React` `Redux Toolkit` `Node.js` `Express` `MySQL`
+
+<a href="https://github.com/bhumi-94/HR-Portal"><img src="https://img.shields.io/badge/FRONTEND-181717?style=for-the-badge&logo=github&logoColor=white" alt="HR Portal frontend"/></a> <a href="https://github.com/bhumi-94/HR-Portal-Backend"><img src="https://img.shields.io/badge/BACKEND-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="HR Portal backend"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/bhumi-94?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Projects-View_Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/></a>
+
+</div>
+
+## `03 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhumi-94&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumi-94&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=bhumi-94&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Analytics are generated from public GitHub activity through third-party services. Availability and displayed metrics may vary.</sub>
+
+## `04 / CURRENTLY BUILDING`
+
+* ⚛️ More maintainable React components and Redux Toolkit workflows.
+* 🔐 Secure authentication and authorization patterns.
+* 🗄️ Stronger SQL, database design, and API fundamentals.
+* 🤖 Exploring AI-powered features for web applications.
+* 🚀 Better deployment practices, documentation, and testing.
+
+## `05 / LET'S CONNECT`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/bhoomi-kaushik-145081356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://portfolio-website-sooty-rho-30.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="mailto:kaushikbhumika13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+*Thanks for visiting my profile. Explore my repositories and let's build something meaningful.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=110&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
